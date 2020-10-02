@@ -87,4 +87,4 @@ node_modules/.bin/truffle run moonbeam status
 ```
 
 ## Contact Us
-We welcome any feedback, so feel free to reach out through our official [Discord Channel](https://discord.gg/3rgpMmX).
+We welcome any feedback, so feel free to reach out through our official [Discord Channel](https://discord.gg/PfpUATX).
