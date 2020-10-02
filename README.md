@@ -45,7 +45,7 @@ _Note: if you have Truffle installed globally, you can replace `node_modules/.bi
 The Plugin is used to get you started with a local standalone Moonbeam node quickly, the following commands are available:
 
 ### Install
-In this context, installing means downloading Docker (if its not installed already), and the Docker image of the Moonbeam standalone node.
+In this context, installing means downloading the Docker image of the Moonbeam standalone node (requires Docker to be installed).
 
 ```
 node_modules/.bin/truffle run moonbeam install
@@ -77,6 +77,13 @@ Unpause the standalone Moonbeam node.
 
 ```
 node_modules/.bin/truffle run moonbeam unpause
+```
+
+### Status
+Shows the status of the standalone Moonbeam node.
+
+```
+node_modules/.bin/truffle run moonbeam status
 ```
 
 ## Contact Us
